@@ -16,7 +16,7 @@ This application is a to-do list manager that includes categories such as Exerci
 - **StyleSheet**: Provides styling to components.
 
 ## Screenshots
-![Screenshot_2024-06-02-20-25-36-515_host exp exponent](https://github.com/SamKnyarko/rn-assignment3-11352618/assets/151433019/6f57aee3-53d2-4273-918f-da38aa2d52ec)
+![Screenshot_2024-06-02-20-45-40-367_host exp exponent](https://github.com/SamKnyarko/rn-assignment3-11352618/assets/151433019/e577efe2-1644-4a81-876a-8d0ef9843759)
 
 
 
